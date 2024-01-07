@@ -14,8 +14,6 @@ The Oject-Relational Mapping (ORM): E-Commerce Back End application was created 
   - post requests to create a product, a category, or a tag
   - put requests to update a product, a category, or a tag using its respective id
   - delete requests to delete a product, a category, or a tag using its respective id
-  - add a new employee
-  - update an employee role
 
 ## Appendix
 
